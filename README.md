@@ -14,8 +14,10 @@ This is a Python script that performs matrix operations using the SymPy and NumP
     pip install sympy numpy
 ```
 ## Usage
-    1. Create a file named matrix.txt and populate it with the matrix values. Each row should be on a new line, and elements within a row should be separated by spaces.
-    2. Modify the rows and cols variables in the script to specify the number of rows and columns in your matrix, respectively.
+    1. Create a file named matrix.txt and populate it with the matrix values.
+     Each row should be on a new line, and elements within a row should be separated by spaces.
+    2. Modify the rows and cols variables in the script to specify the number of rows and
+     columns in your matrix, respectively.
     3. Run the script using the following command:
 
 ```python
