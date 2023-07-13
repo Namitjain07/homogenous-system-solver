@@ -18,9 +18,9 @@ This is a Python script that performs matrix operations using the SymPy and NumP
     2. Modify the rows and cols variables in the script to specify the number of rows and columns in your matrix, respectively.
     3. Run the script using the following command:
 
-    ```python
-    python Simulator.py
-    ```
+```python
+python Simulator.py
+```
 ## Output
     The script performs the following operations on the input matrix:
 
@@ -33,9 +33,11 @@ This is a Python script that performs matrix operations using the SymPy and NumP
 ## Example
 
 Suppose the input matrix is as follows:
-    `1 2 3
+```python
+    1 2 3
     4 5 6
-    7 8 9`
+    7 8 9
+```
 Running the script will produce the following output:
 ```python
 MARTRIX= [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
